@@ -1,3 +1,4 @@
+build trigger
 # Rapid Imaging Style
 [![Build Status](https://travis-ci.org/openmaptiles/osm-bright-gl-style.svg?branch=master)](https://travis-ci.org/openmaptiles/osm-bright-gl-style)
 
