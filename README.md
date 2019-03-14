@@ -1,5 +1,5 @@
 # Rapid Imaging Style
-[![Build Status](https://travis-ci.org/openmaptiles/osm-bright-gl-style.svg?branch=master)](https://travis-ci.org/openmaptiles/osm-bright-gl-style)
+[![Build Status](https://travis-ci.com/Rapid-Imaging-Tech/rapid-gl-style.svg?branch=master)](https://travis-ci.com/Rapid-Imaging-Tech/rapid-gl-style)
 
 A Mapbox GL basemap style showcasing OpenStreetMap.
 It is using the vector tile
