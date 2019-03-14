@@ -14,7 +14,7 @@ addons:
     packages:
     - libstdc++6
 script:
-- git clone https://github.com/bit-chemist/gl-style-package-spec.git
+- git clone https://github.com/Rapid-Imaging-Tech/gl-style-package-spec.git
 - cd gl-style-package-spec
 - bash ./task/run.sh
 
