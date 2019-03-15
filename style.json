@@ -3550,7 +3550,7 @@
         "text-letter-spacing": 0.2
       },
       "paint": {
-        "text-color": "rgba(255,255,255,0",
+        "text-color": "rgba(255,255,255,0)",
         "text-halo-width": 1.5,
         "text-halo-color": "rgba(255,255,255,1)"
       }
@@ -3585,7 +3585,7 @@
         "text-letter-spacing": 0.2
       },
       "paint": {
-        "text-color": "rgba(255,255,255,0",
+        "text-color": "rgba(255,255,255,0)",
         "text-halo-width": 1.5,
         "text-halo-color": "rgba(255,255,255,0)"
       }
@@ -3625,7 +3625,7 @@
         "text-letter-spacing": 0.2
       },
       "paint": {
-        "text-color": "rgba(255,255,255,0",
+        "text-color": "rgba(255,255,255,0)",
         "text-halo-width": 1.5,
         "text-halo-color": "rgba(255,255,255,0)"
       }
@@ -3665,7 +3665,7 @@
         "text-letter-spacing": 0.2
       },
       "paint": {
-        "text-color": "rgba(255,255,255,0",
+        "text-color": "rgba(255,255,255,0)",
         "text-halo-width": 1.5,
         "text-halo-color": "rgba(255,255,255,0)"
       }
@@ -3717,7 +3717,7 @@
         "visibility": "visible"
       },
       "paint": {
-        "text-color": "rgba(255,255,255,0",
+        "text-color": "rgba(255,255,255,0)",
         "text-halo-width": 1.5,
         "text-halo-color": "rgba(255,255,255,0)"
       }
@@ -3769,7 +3769,7 @@
         "visibility": "visible"
       },
       "paint": {
-        "text-color": "rgba(255,255,255,0",
+        "text-color": "rgba(255,255,255,0)",
         "text-halo-width": 1.5,
         "text-halo-color": "rgba(255,255,255,0)"
       }
