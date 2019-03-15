@@ -4120,8 +4120,8 @@
         "text-rotation-alignment": "map"
       },
       "paint": {
-        "text-halo-color": "rgba(0, 0, 0, 1)",
-        "text-color": "rgba(255, 255, 255, 1)",
+        "text-halo-color": "rgba(0, 0, 0, 0)",
+        "text-color": "rgba(255, 255, 255, 0)",
         "text-halo-width": 1
       }
     },
@@ -4165,8 +4165,8 @@
         "text-rotation-alignment": "map"
       },
       "paint": {
-        "text-halo-color": "rgba(0, 0, 0, 1)",
-        "text-color": "rgba(255, 255, 255, 1)",
+        "text-halo-color": "rgba(0, 0, 0, 0)",
+        "text-color": "rgba(255, 255, 255, 0)",
         "text-halo-width": 1
       }
     },
@@ -4218,9 +4218,9 @@
       },
       "paint": {
         "text-halo-blur": 1,
-        "text-color": "rgba(255, 255, 255, 1)",
+        "text-color": "rgba(255, 255, 255, 0)",
         "text-halo-width": 1,
-        "text-halo-color": "rgba(0, 0, 0, 1)"
+        "text-halo-color": "rgba(0, 0, 0, 0)"
       }
     },
     {
@@ -4271,9 +4271,9 @@
       },
       "paint": {
         "text-halo-blur": 0.2,
-        "text-color": "rgba(255,255,255, 1)",
+        "text-color": "rgba(255,255,255, 0)",
         "text-halo-width": 2,
-        "text-halo-color": "rgba(0, 0, 0, 1)",
+        "text-halo-color": "rgba(0, 0, 0, 0)",
 	"text-opacity": 1
       }
     },
@@ -4321,9 +4321,9 @@
       },
       "paint": {
         "text-halo-blur": 0,
-        "text-color": "rgba(255,255,255, 1)",
+        "text-color": "rgba(255,255,255, 0)",
         "text-halo-width": 2,
-        "text-halo-color": "rgba(0, 0, 0, 1)",
+        "text-halo-color": "rgba(0, 0, 0, 0)",
 	"text-opacity": 1
       }
     },
@@ -4371,9 +4371,9 @@
       },
       "paint": {
         "text-halo-blur": 0,
-        "text-color": "rgba(242, 238, 234, 1)",
+        "text-color": "rgba(255, 555, 255, 0)",
         "text-halo-width": 2,
-        "text-halo-color": "rgba(0, 0, 0, 1)",
+        "text-halo-color": "rgba(0, 0, 0, 0)",
 	"text-opacity": 1
       }
     },
