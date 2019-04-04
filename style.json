@@ -4404,6 +4404,7 @@
         ]
       ],
       "layout": {
+        "visibility": "none",
         "text-size": 10,
         "icon-image": "road_{ref_length}",
         "icon-rotation-alignment": "viewport",
@@ -4428,7 +4429,14 @@
         "icon-size": 1,
         "text-field": "{ref}"
       },
-      "paint": {}
+      "paint": {
+        "text-halo-blur": 0,
+        "text-color": "rgba(255, 555, 255, 0)",
+        "text-halo-width": 0,
+        "text-halo-color": "rgba(0, 0, 0, 0)",
+	    "text-opacity": 0,
+        "icon-opacity": 0
+      }
     },
     {
       "id": "highway-shield-us-interstate",
@@ -4455,6 +4463,7 @@
         ]
       ],
       "layout": {
+        "visibility": "none",
         "text-size": 10,
         "icon-image": "{network}_{ref_length}",
         "icon-rotation-alignment": "viewport",
@@ -4484,8 +4493,12 @@
         "text-field": "{ref}"
       },
       "paint": {
-        "text-color": "rgba(0, 0, 0, 1)",
-        "text-halo-color": "rgba(0, 0, 0, 1)"
+        "text-halo-blur": 0,
+        "text-color": "rgba(255, 555, 255, 0)",
+        "text-halo-width": 0,
+        "text-halo-color": "rgba(0, 0, 0, 0)",
+	    "text-opacity": 0,
+        "icon-opacity": 0
       }
     },
     {
@@ -4514,6 +4527,7 @@
         ]
       ],
       "layout": {
+        "visibility": "none",
         "text-size": 10,
         "icon-image": "{network}_{ref_length}",
         "icon-rotation-alignment": "viewport",
@@ -4539,8 +4553,12 @@
         "text-field": "{ref}"
       },
       "paint": {
-        "text-color": "rgba(0, 0, 0, 1)",
-        "text-halo-color": "rgba(0, 0, 0, 1)"
+        "text-halo-blur": 0,
+        "text-color": "rgba(255, 555, 255, 0)",
+        "text-halo-width": 0,
+        "text-halo-color": "rgba(0, 0, 0, 0)",
+	    "text-opacity": 0,
+        "icon-opacity": 0
       }
     },
     {
